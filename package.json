@@ -1,7 +1,7 @@
 {
   "name": "js-subclub",
   "version": "1.0.0",
-  "description": "",
+  "description": "A JS (Typescript) library for interacting with the sub.club API.",
   "cdn": "dist/index.umd.js",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
